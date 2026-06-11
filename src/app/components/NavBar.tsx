@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import logoImg from "../../imports/ChatGPT_Image_Jun_9__2026__11_00_51_PM-1.png";
+import logoImg from "../../imports/logo.png";
 
 export function NavBar() {
   const [scrolled, setScrolled] = useState(false);
